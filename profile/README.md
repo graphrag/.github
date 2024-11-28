@@ -1,6 +1,6 @@
 # GraphRAG Projects and Resources
 
-This GitHub organization collects relevant projects and resources like the [pattern catalog](https://graphr.ag) ([repository](https://github.com/graphrag/graphrag.github.io/tree/main/src/content/docs/reference)) and more.
+This GitHub organization collects relevant projects and resources like the [pattern catalog](https://graphrag.com) ([repository](https://github.com/graphrag/graphrag.github.io/tree/main/src/content/docs/reference)) and more.
 
 *Retrieval Augmented Generation (RAG)* is a way to ground Large Language Models (LLMs) in factual data to reduce hallucinations and extend the information available for question answering.
 The user's question will be used to _retrieve_ relevant information from one or more data sources.
